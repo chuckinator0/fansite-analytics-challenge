@@ -1,1 +1,1 @@
-Please note that log.txt is far too large to commit to this repository. Please place log.txt inside the appropriate log_input folder to analyze the fictional NASA fansite.
+Please note that log.txt is far too large to commit to this repository. Please place log.txt inside the appropriate log_input folder to analyze the fictional NASA fansite. Download full log.txt at https://drive.google.com/file/d/0B7-XWjN4ezogbUh6bUl1cV82Tnc/view
